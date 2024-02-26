@@ -1,4 +1,4 @@
-## Olá, me chamo Kevelly
+## Olá, me chamo Kevelly Mendes de Oliveira
 
 ##### 📖 Sou estudante da Faculdade São Paulo Tech School.
 
