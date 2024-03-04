@@ -4,7 +4,7 @@
 
 ##### ℹ️ Estou cursando o 1º semestre em Sistemas da Informação.
 
-##### Seja bem-vindo para aconpanhar meu desenvolvimento na SPTech! 😊.
+##### Seja bem-vindo para acompanhar meu desenvolvimento na SPTech! 😊.
 
 <!--![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kev-oli&layout=compact&theme=radical) -->
 
